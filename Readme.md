@@ -8,6 +8,8 @@ This readme has been written with the target platform being Linux, but I may add
 
 ```
 sudo pacman -S base-devel
+sudo pacman -S gdb
 sudo pacman -S freeglut
+sudo pacman -S eclipse-cpp
 ```
 

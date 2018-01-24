@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
 mkdir -p bin
-gcc main.c -o bin/juake
+gcc display.h main.c -o bin/juake -lglut -lGL
